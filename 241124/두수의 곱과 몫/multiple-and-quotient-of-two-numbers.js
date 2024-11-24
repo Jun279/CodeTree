@@ -6,4 +6,4 @@ let a = parseInt(number[0]);
 let b = parseInt(number[1]);
 
 console.log(`${a} * ${b} = ${a*b}`);
-console.log(`${a} / ${b} = ${a/b}`);
+console.log(`${a} / ${b} = ${parseInt(a/b)}`);
