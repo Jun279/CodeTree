@@ -9,5 +9,5 @@ if(input>=90) {
 } else if(input>=60) {
     console.log("D");
 } else {
-    console.log("D");
+    console.log("F");
 }
